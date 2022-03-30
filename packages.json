@@ -1,0 +1,42 @@
+[
+    {
+        "package": "rlog",
+        "url": "https://github.com/sellorm/rlog"
+    },
+    {
+        "package": "nhsnumber",
+        "url": "https://github.com/sellorm/nhsnumber"
+    },
+    {
+        "package": "rspmapi",
+        "url": "https://github.com/sellorm/rspmapi"
+    },
+    {
+        "package": "cranq",
+        "url": "https://github.com/sellorm/cranq"
+    },
+    {
+        "package": "memorids",
+        "url": "https://github.com/sellorm/memorids"
+    },
+    {
+        "package": "dailies",
+        "url": "https://github.com/sellorm/dailies"
+    },
+    {
+        "package": "qsimage",
+        "url": "https://github.com/sellorm/qsimage"
+    },
+    {
+        "package": "ekl",
+        "url": "https://github.com/sellorm/ekl"
+    },
+    {
+        "package": "rsay",
+        "url": "https://github.com/sellorm/rsay"
+    },
+    {
+        "package": "envstat",
+        "url": "https://github.com/sellorm/envstat"
+    }
+]
